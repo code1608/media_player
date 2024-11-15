@@ -1,3 +1,3 @@
 # media_player
 
-## Importamos los modulos correspondientes
+## Este repoductor de música hecho con chatGpt y una que otra documentación
